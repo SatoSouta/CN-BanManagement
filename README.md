@@ -1,2 +1,2 @@
 # CN-BanManagement
-## BanManagement 中文汉化版
+BanManagement 中文汉化版
